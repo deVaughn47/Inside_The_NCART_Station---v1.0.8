@@ -6,20 +6,20 @@ Inside Station is a powerful and versatile mod for Cyberpunk 2077 that enhances 
 
 The features I've added in this v1.0.8 update include:  
 
-Modular Architecture: Organized into distinct modules for easy maintenance and scalability.
+ - Modular Architecture: Organized into distinct modules for easy maintenance and scalability.
 
-Robust Error Handling: Utilizes pcall() for safe module loading, preventing runtime crashes.
+ - Robust Error Handling: Utilizes pcall() for safe module loading, preventing runtime crashes.
 
-Enhanced Logging System: Comprehensive logging with multiple severity levels (Info, Debug, Error, Critical) to facilitate debugging and monitoring.
+ - Enhanced Logging System: Comprehensive logging with multiple severity levels (Info, Debug, Error, Critical) to facilitate debugging and monitoring.
 
-Proximity Detection: Detects player proximity to train stations, enabling context-sensitive features like teleportation and UI updates.
+ - Proximity Detection: Detects player proximity to train stations, enabling context-sensitive features like teleportation and UI updates.
 
-Teleportation Mechanics: Seamless teleportation functionality within stations, reducing load times and enhancing immersion.
+ - Teleportation Mechanics: Seamless teleportation functionality within stations, reducing load times and enhancing immersion.
 
-Visual Effects: Optional glitch effects during fast travel to enrich visual feedback.
+ - Visual Effects: Optional glitch effects during fast travel to enrich visual feedback.
 
-Configurable Activation Radius: Easily adjustable radius for proximity-based features to suit player preferences.
+ - Configurable Activation Radius: Easily adjustable radius for proximity-based features to suit player preferences.
 
-Debugging Tools: Integrated ImGui interface for real-time debugging and visualization of in-game elements.
+ - Debugging Tools: Integrated ImGui interface for real-time debugging and visualization of in-game elements.
 
-Performance Optimization: Throttled Cron tasks to ensure minimal performance impact when inactive.
+ - Performance Optimization: Throttled Cron tasks to ensure minimal performance impact when inactive.
